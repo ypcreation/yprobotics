@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: blueviolet;
+    width: 100%;
+    height: 1000px;
+
+
+}
+
+.one{
+    
+    font-size: 40px;
+    color: yellow;
+    position: absolute;
+    top: 90px;
+    left: 650px;
+
+    
+    
+    
+
+
+}
+
+.two{
+    width: 600px;
+    height: 700px;
+    position: absolute;
+    background-color: aliceblue;
+    top: 200px;
+    left: 450px;
+}
